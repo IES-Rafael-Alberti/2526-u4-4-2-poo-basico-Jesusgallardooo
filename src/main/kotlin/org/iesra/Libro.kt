@@ -1,6 +1,6 @@
 package org.iesra
 
-class Libro (val titulo:String, val autor:String, val numPaginas: Int = 100, var leido: Boolean = false) {
+class Libro (private val titulo:String, private val autor:String, private val numPaginas: Int = 100, private var leido: Boolean = false) {
 
     init {
         require(titulo.isNotBlank()) { "El título no puede estar vacío" }
