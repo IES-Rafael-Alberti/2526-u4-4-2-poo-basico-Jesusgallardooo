@@ -1,27 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rI46BDue)
-# Práctica 4.1: Progr4amación orientada a objetos
-
-Apóyate en los siguientes recursos para realizar la práctica:
-
-[U4: 1. POO](./EjerciciosSencillosPOO.md)
-
-> ATENCIÓN: DURANTE LA DOCUMENTACIÓN DE LA PRÁCTICA, ELIMINA TODO AQUELLO QUE NO APLIQUE. PEEEEEEEROOOOOOO, ANTES DE ELIMINAR ALGO, PIENSA SI APLICA O NO.
-
----
-
-# Título de la Actividad
+# Práctica 4.1: Programación orientada a objetos
 
 ## Identificación de la Actividad
 
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **ID de la Actividad:** 4.1
+- **Módulo:** PROG
+- **Unidad de Trabajo:** UD4: Kotlin: POO y estructuras de datos
+- **Fecha de Creación:** 15/01/2026
+- **Fecha de Entrega:** 16/01/2026
 - **Alumno(s):**
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** Jesús Gallardo Domínguez
+  - **Correo electrónico:** jgaldom0701@g.educaand.es
+  - **Iniciales del Alumno/Grupo:** JGD
 
 ## Descripción de la Actividad
 
