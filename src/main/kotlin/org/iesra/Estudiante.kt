@@ -1,18 +1,18 @@
 package org.iesra
 
-class Estudiante (private val nombre: String) {
+class Estudiante(private val nombre: String) {
 
-    private var nota:Double = 0.0
-
-    fun setNota(nota: Double) {
-        require(nota in 0.0..10.0) { "La nota debe estar entre 0 y 10" }
-        this.nota = nota
-    }
+    var nota: Double = 0.0
+        set(value) {
+            require(value in 0.0..10.0) { "La nota debe estar entre 0 y 10" }
+            field = value
+        }
 
     override fun toString(): String {
-        return "Estudiante(nombre=$nombre, nota=$nota)"
+        return "Estudiante: $nombre, Nota: $nota"
     }
 }
+
 
 fun main() {
 
@@ -22,9 +22,9 @@ fun main() {
     var estudiante3: Estudiante = Estudiante("Daniel Felipe")
 
     // intenta asignarles notas fuera del rango
-    estudiante1.setNota(12.0)
-    estudiante2.setNota(13.0)
-    estudiante3.setNota(14.0)
+    estudiante1.nota = 12.0
+    estudiante2.nota = 13.0
+    estudiante3.nota = 14.0
 
     // mostrar detalles
     println(estudiante1)
